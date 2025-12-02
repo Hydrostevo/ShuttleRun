@@ -1,4 +1,3 @@
-Bill of Materials
 
 | Item	Description | Qty per Cone | Qty required |
 |---|---|---|
@@ -19,11 +18,10 @@ Bill of Materials
 |---|
 |Reset switch	Non-latching 7mm momentry panel mount push button
 |DF player mini	DFplayer Mini
-|Speaker	3 watt 8 ohm portable small speakers
-|---|	
-	
-|Development parts	
-|-------------------------------------------------------------------------------------|
-|Controllers	ESP32 S3 super mini - Must have 5V pin
-|Proximity sensor	LD2410 microwave person sensor
-|Servos	
+| Speaker [3 watt 8 ohm] portable small speakers
+|---|
+| Development parts |	
+|---|
+| Controllers	ESP32 S3 super mini - Must have 5V pin |
+| Proximity sensor	LD2410 microwave person sensor |
+| Servos	|
