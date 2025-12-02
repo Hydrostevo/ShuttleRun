@@ -1,0 +1,29 @@
+Bill of Materials
+
+| Item	Description | Qty per Cone | Qty required |
+|---|---|---|
+| LiPo battery	503450 LiPo | 
+|Power switch	Mini panel mount slide switch | 
+|Capacitor	1000 µF, 16V electrolytic capacitor (pack of 40)
+|Lipo charger and regulator	Lipo battery charger with output boost voltage regulator
+|Resistor - Neopixel	330Ω (100 pcs)
+|Resistor - Voltage divider	220Ω (100 pcs)
+|Controllers	ESP32 S3 super mini - Must have 5V pin
+|Big Pushbuttons	22mm diameter metal non-latching pushbutton
+| RGB Led Strip	5m 74 LEDs per meter RGBLED strip
+|USBC panel mount socket	USB C panel socket
+|PCB material	Perf board - 6cm X 8cm
+|Threaded inserts	M3 Heat Set Threaded Inserts (pack of 100)
+|---|
+| Master Parts (in addition to Slave)|
+|---|
+|Reset switch	Non-latching 7mm momentry panel mount push button
+|DF player mini	DFplayer Mini
+|Speaker	3 watt 8 ohm portable small speakers
+|---|	
+	
+|Development parts	
+|-------------------------------------------------------------------------------------|
+|Controllers	ESP32 S3 super mini - Must have 5V pin
+|Proximity sensor	LD2410 microwave person sensor
+|Servos	
